@@ -17,8 +17,8 @@ class FlywheelCli < Formula
   desc "Authenticate and bulk-upload field data to your Flywheel workspace"
   homepage "https://withflywheel.com"
   # release.sh replaces the two PLACEHOLDER lines with the PyPI sdist URL + sha256.
-  url "https://files.pythonhosted.org/packages/3a/b6/92807370b04800d841f9c1f8a12a65ecdcb5ea14ad133f16c23cf3e593c7/ydderd_flywheel_cli-0.1.0.tar.gz"
-  sha256 "4acabd7280f37f8470e568c79cd4f0dd4eb191dc55c51ee64ec61c017b4cd311"
+  url "https://files.pythonhosted.org/packages/25/14/77da99dfe45a8fa0a972ec4d4f09d71b560816a162a425ce7982efcdd73b/ydderd_flywheel_cli-0.2.0.tar.gz"
+  sha256 "4dadbb8ab72a1bb4853963b03e2aa856cd2327430fe317d1840db040f622cd33"
   license "Apache-2.0"
 
   depends_on "python@3.12"
